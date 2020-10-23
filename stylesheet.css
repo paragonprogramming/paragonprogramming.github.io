@@ -10,4 +10,8 @@ h1 {color:#E8C547; text-align:center;}
 
 body {background-color:#F7F9F9;} 
 
+@media (max-width:768px) {
+  .row {padding-bottom: 0% !important;}
+}
+
 footer {color:#5C80BC;}
